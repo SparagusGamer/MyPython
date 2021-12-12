@@ -1,2 +1,2 @@
 # MyPython
-Repository for my first Python scripts
+Repository for my first [**Python**](https://github.com/topics/python) scripts.
